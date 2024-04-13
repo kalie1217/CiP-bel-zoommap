@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zoom>
+  <targetCountry>Lativia</targetCountry>
+  <title>Lativia</title>
+  <subtitle>Zoom Map</subtitle>
+  <country dropX="226" dropY="65">Estonia</country>
+  <country dropX="480" dropY="200">Russia</country>
+  <country dropX="400" dropY="300">Belarus</country>
+  <country dropX="170" dropY="315">Lithuania</country>
+
+
+</zoom>
+
